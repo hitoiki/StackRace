@@ -55,9 +55,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script\IKeypad.cs" />
-     <Compile Include="Assets\Script\RacerAccel.cs" />
+     <Compile Include="Assets\Script\IHandling.cs" />
+     <Compile Include="Assets\Script\Keyboard.cs" />
+     <Compile Include="Assets\Script\RacerDrive.cs" />
      <Compile Include="Assets\Script\RacerStack.cs" />
+     <Compile Include="Assets\Script\RacerState.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/lifik/OneDrive/ドキュメント/GitHub/StackRace/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
